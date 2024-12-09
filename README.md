@@ -2,6 +2,14 @@
 
 > This Interactive Application Will Teach People About "Cryptographic Attacks".
 
+
+# Implemented Controls
+
+* Keyboard (WASD & Arrow Keys)
+* Mouse (Has a Custom Cursor)
+* Touch
+* Gamepad
+<br></br>
 # Planned Platforms
 
 * Android 8+
