@@ -5,10 +5,10 @@
 
 # Implemented Controls
 
-* Keyboard (WASD & Arrow Keys)
-* Mouse (Has a Custom Cursor)
-* Touch
-* Gamepad
+* Keyboard (WASD & Arrow Keys) [Has Been Tested]
+* Mouse (Has a Custom Cursor) [Has Been Tested]
+* Touch [Partialy Tested]
+* Gamepad [Not Tested]
 <br></br>
 # Planned Platforms
 
