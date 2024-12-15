@@ -17,5 +17,6 @@ Move Osutron (the player) to Each House. There will Be a Question & Answer about
 
 * <b>Android(Unknown Full Range Compatability: Tested on Android 14)</b> (Unable to Export Using Construct 3 Cordova, App Was Made By Using Website2APK<sup>(a 3rd Party Tool)</sup>)
 * <b> Windows(x64,x86, x64 ARM) </b>
+* <b> Linux </b>
 * <b> HTML-5 (on [itch.io](https://paulgamerboy101.itch.io/cryptographic-attacks-interactive-application)) </b>
 
