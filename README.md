@@ -15,7 +15,7 @@ Move Osutron (the player) to Each House. There will Be a Question & Answer about
 
 ## Platforms
 
-* <b>Android(10+)</b>
+* <b>Android(13+)</b>
 * <b> Windows(x64,x86, x64 ARM) </b>
 * <b> HTML-5 (on [itch.io](https://paulgamerboy101.itch.io/cryptographic-attacks-interactive-application)) </b>
 * <b> Linux </b>
