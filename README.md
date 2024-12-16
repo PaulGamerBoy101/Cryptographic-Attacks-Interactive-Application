@@ -17,7 +17,7 @@ Move Osutron (the player) to Each House. There will Be a Question & Answer about
 
 * <b>Android(13+)</b>
 * <b> Windows(x64,x86, x64 ARM) </b>
-* <b> HTML-5 (on itch.io)</b>
+* <b> HTML-5 </b>
 * <b> Linux </b>
 * <b> X-Box (Potentialy) </b>
 
