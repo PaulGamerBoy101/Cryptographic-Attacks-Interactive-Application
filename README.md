@@ -2,6 +2,10 @@
 
 > This Interactive Application Will Teach the User About Cryptographic Attacks
 
+## New
+
+* Added A Background to The Game Maps
+
 ## Navigation
 
 * WASD
