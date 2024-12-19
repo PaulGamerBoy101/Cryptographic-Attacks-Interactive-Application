@@ -1,6 +1,10 @@
-# Cryptographic-Attacks-Interactive-Application
+# Cryptographic Attacks Interactive Application: <b>Version 1.5.1.0 (This Version is Only Available on Itch.io)</b>
 
 > This Interactive Application Will Teach the User About Cryptographic Attacks
+
+## New
+
+* Bug Fixes
 
 ## Navigation
 
@@ -15,11 +19,8 @@ Move Osutron (the player) to Each House. There will Be a Question & Answer about
 
 ## Platforms
 
-* <b>Android(13+)</b>
-* <b> Windows(x64,x86, x64 ARM) </b>
-* <b> HTML-5 </b>
-* <b> Linux </b>
-* <b> X-Box (Potentialy) </b>
+* <b> HTML-5 (Link to Open Itch.io Game is In the Source Files)</b>
+
 
 <br></br>
 
